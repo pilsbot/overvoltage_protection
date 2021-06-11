@@ -58,7 +58,7 @@ F 3 "~" H 6000 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:MC3423 U1
+L overvolt-rescue:MC3423-Connector U1
 U 1 1 60B20B6F
 P 4700 2800
 F 0 "U1" H 4775 2865 50  0000 C CNN

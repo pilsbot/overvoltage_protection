@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MC3423-Connector
+#
+DEF MC3423-Connector U 0 40 Y Y 1 F N
+F0 "U" 0 50 50 H V C CNN
+F1 "MC3423-Connector" 0 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 -100 50 -1799 -1 0 1 0 N -50 -100 50 -100
+C 0 -100 0 0 1 0 N
+S -200 -100 -200 -100 0 1 0 N
+S -200 -100 -200 -100 0 1 0 N
+S -200 -100 200 -650 0 1 0 N
+S 250 -500 250 -500 0 1 0 N
+X Vcc 1 -300 -200 100 R 50 22 1 1 I
+X Sense_1 2 -300 -300 100 R 50 20 1 1 I
+X Sense_2 3 -300 -400 100 R 50 20 1 1 I
+X Current_Source 4 -300 -500 100 R 50 20 1 1 O
+X Remote_Activation 5 300 -500 100 L 50 20 1 1 I
+X Indicator_Output 6 300 -400 100 L 50 20 1 1 O
+X V_EE 7 300 -300 100 L 50 20 1 1 I
+X Drive_output 8 300 -200 100 L 50 20 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
