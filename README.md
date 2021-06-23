@@ -6,6 +6,9 @@ To "calibrate" the cutoff voltage, disconnect jumper `JP2`, apply the desired (o
 
 ![img](render/schematic.png)
 ![img](render/pcb_3d_top.png)
+![DSC_2156_klein](https://user-images.githubusercontent.com/7480344/123068339-16af0200-d412-11eb-970c-7a6f0466424e.jpg)
+
+
 
 ### BOM
 
