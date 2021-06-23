@@ -1,6 +1,7 @@
 # Overview
 Overvoltage and Overcurrent protection PCB based on the MC3423 chip and a thyristor.
 To "calibrate" the cutoff voltage, disconnect jumper `JP2`, apply the desired (over-) voltage and turn potentiometer until green LED `D1` turns off.
+Red LED `D2` lights up if fuse is blown (optional).
 
 ### Renderings
 
